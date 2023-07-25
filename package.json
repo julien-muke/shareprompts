@@ -13,6 +13,7 @@
     "bcrypt": "^5.1.0",
     "mongodb": "^5.7.0",
     "mongoos": "^0.0.1-security",
+    "mongoose": "^7.4.1",
     "next": "13.4.12",
     "next-auth": "^4.22.3",
     "postcss": "8.4.27",
