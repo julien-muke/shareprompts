@@ -2,7 +2,15 @@
 ![Screenshot](Screenshot.png)
 
 ## Introduction
-Next.js recently became the official React framework as outlined in React docs. I've learned the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 13 application.
+SharePrompts is an open-source AI prompting tool for modern world to discover, create and share creative prompts.
+
+## Features:
+- Login using next auth & google auth
+- Search for tags, username and prompt content
+- Create, edit, copy and delete any prompt
+- Search prompts 
+- Click on tags
+- View other profiles
  
 ## Implementation:
 - Next.js 13 App Folder Structure
