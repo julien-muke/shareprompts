@@ -1,5 +1,5 @@
 # Build and Deploy a modern full-stack CRUD app using Next.js 13 | 2023 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## Introduction
 Next.js recently became the official React framework as outlined in React docs. I've learned the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 13 application.
